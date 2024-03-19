@@ -1,6 +1,6 @@
 hemil vepari
-jay majoor1
-gopi majoor1
-harshil majoor1
-:wq!
+jay majoor 1
+gopi majoor 2
+harshil majoor 3
+
 
